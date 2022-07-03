@@ -1,3 +1,3 @@
 # PumpBotV2
 
-Read-me in the PDFs
+Read-me in the PDFs. Format: .pyc
